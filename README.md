@@ -16,9 +16,9 @@ The revised benchmark is `./benchmarks/browsecomp-zh.jsonl`, the following is a 
 ```
 
 ## Contributors & Citation
-Thanks the following people for their contributions to this project, names are listed in alphabetical order by last name.
+🎉 Thanks the following people for their contributions to this project, names are listed in alphabetical order by last name.
 
-Contributors: Yuxin Bian, Xuezhi Cao, Xiaolong Chen, Yan Chen, Shijun Dai, Yuchuan Dai, Qiyuan Duan, Lingchuan Liu, Wei Liu, Xiangyuan Liu, Hongzhi Ni, Lin Qiu, Ziwen Wang, Haoxing Wen, Quanchi Weng, Yue Xu, Chenhui Yang, Hao Yang, Fengcheng Yuan, Jiacheng Zhang, Pengtao Zhang, Rongzhi Zhang, Jiarui Zhao, Peng Zhao, Mingyang Zhu
+**Contributors:** Yuxin Bian, Xuezhi Cao, Xiaolong Chen, Yan Chen, Shijun Dai, Yuchuan Dai, Qiyuan Duan, Lingchuan Liu, Wei Liu, Xiangyuan Liu, Hongzhi Ni, Lin Qiu, Ziwen Wang, Haoxing Wen, Quanchi Weng, Yue Xu, Chenhui Yang, Hao Yang, Fengcheng Yuan, Jiacheng Zhang, Pengtao Zhang, Rongzhi Zhang, Jiarui Zhao, Peng Zhao, Mingyang Zhu
 
 If you use the resources from this project, please cite as follows:
 
@@ -31,7 +31,7 @@ If you use the resources from this project, please cite as follows:
 }
 ```
 
-## Contact
+## ☁️ Contact
 
 If you have any questions, please contact us via:
 
