@@ -1,3 +1,6 @@
 [submodule "benchmarks/browsecomp-zh-revised"]
 	path = benchmarks/browsecomp-zh-revised
 	url = https://github.com/AGI-Eval-Official/BrowseComp-ZH-revised.git
+[submodule "benchmarks/tau2-bench-revised"]
+	path = benchmarks/tau2-bench-revised
+	url = https://github.com/AGI-Eval-Official/tau2-bench-revised.git
