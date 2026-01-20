@@ -4,7 +4,7 @@ When using certain public benchmarks, we discovered errors in their official ans
 ## Existing Work
 View our existing work in `./benchmarks`.
 - **BrowseComp-ZH-revised：** Correct the answers to 24 questions. reference: https://github.com/AGI-Eval-Official/BrowseComp-ZH-revised, [MIT License](https://github.com/AGI-Eval-Official/BrowseComp-ZH-revised/blob/main/LICENSE)
-
+- **$\tau^2$-bench-revised：** Made three critical improvements. reference: https://github.com/AGI-Eval-Official/tau2-bench-revised, [MIT License](https://github.com/AGI-Eval-Official/tau2-bench-revised/blob/main/LICENSE)
 ## Setup
 To use this repository, you need to execute:
 
